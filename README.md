@@ -7,3 +7,4 @@ Using this to play with git branching :D
 1. index.html will be added soon for demostration purposes
 2. Upstream has been set for the feature-index branch
 3. Testing upstream
+4. Have fun :3
